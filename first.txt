@@ -1,0 +1,7 @@
+public class setNumbers{
+	public static void main	{
+		int num = 34;
+
+
+}
+}
